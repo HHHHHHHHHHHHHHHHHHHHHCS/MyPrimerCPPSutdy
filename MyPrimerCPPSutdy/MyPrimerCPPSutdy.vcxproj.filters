@@ -13,6 +13,9 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="Source Files\First">
+      <UniqueIdentifier>{d0d5ea0d-5184-49c7-8e46-dd1e2f558a54}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <Text Include="ReadMe.txt" />
@@ -26,11 +29,11 @@
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="stdafx.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="MyPrimerCPPSutdy.cpp">
       <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="_01_02_HelloWorld.cpp">
+      <Filter>Source Files\First</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
