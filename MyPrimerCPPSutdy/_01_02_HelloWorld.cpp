@@ -1,18 +1,7 @@
 #include "stdafx.h"
-#include <iostream>  
+#include "_01_02_HelloWorld.h"
+
 using namespace std;
-
-class _01_02_HelloWorld
-{
-public:
-	void Test();
-	void CoutHelloWorld();
-	void CoutSumByNumber();
-	void CoutMulByNumber();
-	void CoutSumWithLine();
-private:
-};
-
 void _01_02_HelloWorld::Test()
 {
 	CoutHelloWorld();

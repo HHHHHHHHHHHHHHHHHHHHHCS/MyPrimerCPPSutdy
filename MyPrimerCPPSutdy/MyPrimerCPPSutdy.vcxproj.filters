@@ -14,7 +14,10 @@
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
     <Filter Include="Source Files\First">
-      <UniqueIdentifier>{d0d5ea0d-5184-49c7-8e46-dd1e2f558a54}</UniqueIdentifier>
+      <UniqueIdentifier>{b770e422-9e5b-4c92-93a7-f8980ee0faac}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\First">
+      <UniqueIdentifier>{5589a66a-f5e2-40a6-8864-52c40d94570b}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
@@ -27,8 +30,17 @@
     <ClInclude Include="targetver.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="MyPrimerCPPSutdy.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="_01_02_HelloWorld.h">
+      <Filter>Header Files\First</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
     <ClCompile Include="MyPrimerCPPSutdy.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>

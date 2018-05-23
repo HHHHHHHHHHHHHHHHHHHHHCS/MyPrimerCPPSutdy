@@ -1,6 +1,5 @@
-﻿  _01_02_HelloWorld.cpp
-e:\mycpp\myprimercppsutdy\myprimercppsutdy\_01_02_helloworld.cpp(2): warning C4627: '#include <iostream>': skipped when looking for precompiled header use
-  e:\mycpp\myprimercppsutdy\myprimercppsutdy\_01_02_helloworld.cpp(2): note: Add directive to 'stdafx.h' or rebuild precompiled header
-e:\mycpp\myprimercppsutdy\myprimercppsutdy\_01_02_helloworld.cpp(59): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+﻿  stdafx.cpp
+  _01_02_HelloWorld.cpp
   MyPrimerCPPSutdy.cpp
   Generating Code...
+  MyPrimerCPPSutdy.vcxproj -> E:\MyCPP\MyPrimerCPPSutdy\x64\Debug\MyPrimerCPPSutdy.exe

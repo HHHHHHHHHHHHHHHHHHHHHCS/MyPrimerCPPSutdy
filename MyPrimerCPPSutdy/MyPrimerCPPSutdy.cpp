@@ -2,11 +2,7 @@
 //
 
 #include "stdafx.h"
-#include <iostream>  
-
-#include "_01_02_HelloWorld.cpp"
-
-using namespace std;
+#include "_01_02_HelloWorld.h"
 
 int main()
 {
