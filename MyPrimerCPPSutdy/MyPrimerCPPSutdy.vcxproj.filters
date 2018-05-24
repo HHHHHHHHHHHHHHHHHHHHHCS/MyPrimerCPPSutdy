@@ -39,6 +39,9 @@
     <ClInclude Include="_01_02_While.h">
       <Filter>Header Files\First</Filter>
     </ClInclude>
+    <ClInclude Include="_01_03_For.h">
+      <Filter>Header Files\First</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
@@ -51,6 +54,9 @@
       <Filter>Source Files\First</Filter>
     </ClCompile>
     <ClCompile Include="_01_02_While.cpp">
+      <Filter>Source Files\First</Filter>
+    </ClCompile>
+    <ClCompile Include="_01_03_For.cpp">
       <Filter>Source Files\First</Filter>
     </ClCompile>
   </ItemGroup>

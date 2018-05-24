@@ -150,6 +150,7 @@
     <ClInclude Include="targetver.h" />
     <ClInclude Include="_01_01_HelloWorld.h" />
     <ClInclude Include="_01_02_While.h" />
+    <ClInclude Include="_01_03_For.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="MyPrimerCPPSutdy.cpp" />
@@ -161,6 +162,7 @@
     </ClCompile>
     <ClCompile Include="_01_01_HelloWorld.cpp" />
     <ClCompile Include="_01_02_While.cpp" />
+    <ClCompile Include="_01_03_For.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
