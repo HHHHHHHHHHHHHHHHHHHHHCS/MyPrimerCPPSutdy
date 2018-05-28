@@ -6,6 +6,7 @@ public:
 	void Add();
 	void Reduce();
 	void PrintNumberByInput();
+	void SumSomeNumber();
 private:
 
 };

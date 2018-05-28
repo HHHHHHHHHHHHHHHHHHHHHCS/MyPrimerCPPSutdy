@@ -151,6 +151,8 @@
     <ClInclude Include="_01_01_HelloWorld.h" />
     <ClInclude Include="_01_02_While.h" />
     <ClInclude Include="_01_03_For.h" />
+    <ClInclude Include="_01_04_If.h" />
+    <ClInclude Include="_01_05_SaleItem.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="MyPrimerCPPSutdy.cpp" />
@@ -163,6 +165,8 @@
     <ClCompile Include="_01_01_HelloWorld.cpp" />
     <ClCompile Include="_01_02_While.cpp" />
     <ClCompile Include="_01_03_For.cpp" />
+    <ClCompile Include="_01_04_If.cpp" />
+    <ClCompile Include="_01_05_SaleItem.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

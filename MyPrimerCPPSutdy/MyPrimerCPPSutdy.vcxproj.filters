@@ -42,6 +42,12 @@
     <ClInclude Include="_01_03_For.h">
       <Filter>Header Files\First</Filter>
     </ClInclude>
+    <ClInclude Include="_01_04_If.h">
+      <Filter>Header Files\First</Filter>
+    </ClInclude>
+    <ClInclude Include="_01_05_SaleItem.h">
+      <Filter>Header Files\First</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
@@ -57,6 +63,12 @@
       <Filter>Source Files\First</Filter>
     </ClCompile>
     <ClCompile Include="_01_03_For.cpp">
+      <Filter>Source Files\First</Filter>
+    </ClCompile>
+    <ClCompile Include="_01_04_If.cpp">
+      <Filter>Source Files\First</Filter>
+    </ClCompile>
+    <ClCompile Include="_01_05_SaleItem.cpp">
       <Filter>Source Files\First</Filter>
     </ClCompile>
   </ItemGroup>

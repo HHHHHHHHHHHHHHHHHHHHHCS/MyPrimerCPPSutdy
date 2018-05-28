@@ -11,6 +11,7 @@ void _01_02_While::Test()
 	cout << "-------------------------" << endl;
 	PrintNumberByInput();
 	cout << "-------------------------" << endl;
+	SumSomeNumber();
 }
 
 void _01_02_While::Add()
@@ -40,4 +41,14 @@ void _01_02_While::PrintNumberByInput()
 	{
 		cout << a++ << endl;
 	}
+}
+
+void _01_02_While::SumSomeNumber()
+{
+	int sum = 0, val = 0;
+	while (cin >> val)//val!=EOF
+	{
+		sum += val;
+	}
+	cout << sum << endl;
 }
