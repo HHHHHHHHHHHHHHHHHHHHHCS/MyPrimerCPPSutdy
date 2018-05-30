@@ -48,6 +48,9 @@
     <ClInclude Include="_01_05_SaleItem.h">
       <Filter>Header Files\First</Filter>
     </ClInclude>
+    <ClInclude Include="_01_06_Type.h">
+      <Filter>Header Files\First</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
@@ -69,6 +72,9 @@
       <Filter>Source Files\First</Filter>
     </ClCompile>
     <ClCompile Include="_01_05_SaleItem.cpp">
+      <Filter>Source Files\First</Filter>
+    </ClCompile>
+    <ClCompile Include="_01_06_Type.cpp">
       <Filter>Source Files\First</Filter>
     </ClCompile>
   </ItemGroup>

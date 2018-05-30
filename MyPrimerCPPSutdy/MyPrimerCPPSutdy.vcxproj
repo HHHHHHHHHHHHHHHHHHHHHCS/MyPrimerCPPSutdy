@@ -145,6 +145,7 @@
     <Text Include="ReadMe.txt" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="_01_06_Type.h" />
     <ClInclude Include="MyPrimerCPPSutdy.h" />
     <ClInclude Include="stdafx.h" />
     <ClInclude Include="targetver.h" />
@@ -167,6 +168,7 @@
     <ClCompile Include="_01_03_For.cpp" />
     <ClCompile Include="_01_04_If.cpp" />
     <ClCompile Include="_01_05_SaleItem.cpp" />
+    <ClCompile Include="_01_06_Type.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -7,10 +7,11 @@
 #include "_01_03_For.h"
 #include "_01_04_If.h"
 #include "_01_05_SaleItem.h"
+#include "_01_06_Type.h"
 
 int main()
 {
-	_01_05_SaleItem t = _01_05_SaleItem();
+	_01_06_Type t = _01_06_Type();
 	t.Test();
 
 	system("pause");
